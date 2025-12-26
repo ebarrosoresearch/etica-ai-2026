@@ -1,84 +1,83 @@
-# UTOPÍA Y COEVOLUCIÓN
-
-**Módulo 10 — Grupo 701 — 2025**
-
-> Futuros posibles.
-
----
-
-[[pagina-de-inicio|← Volver al Inicio]] | [[#plan-del-módulo-10|Ver Plan del Módulo ↓]]
-
----
+# 10. CONCIENCIA, ESPIRITUALIDAD Y APOCALIPSIS
 
 ## Contextualización
 
-Este módulo aborda los temas complejos e interconectados de biotecnología y transhumanismo en el contexto de la ciencia de datos y la IA. Explora cómo los avances en biotecnología están convergiendo con la IA y el análisis de datos para transformar diversos aspectos de la vida humana y la sociedad, y examina las implicaciones éticas de estos desarrollos. El módulo se divide en dos clases: una centrada en la "Biotecnología" y otra en el "Transhumanismo", explorando sus relaciones e influencias mutuas.
+Este módulo aborda las dimensiones más profundas y especulativas de la relación entre humanidad y tecnología. Explora tres perspectivas interconectadas: los riesgos existenciales y escenarios apocalípticos asociados con la IA, las visiones utópicas de futuros tecnológicos ideales, y la coevolución entre humanos y máquinas.
 
-La clase de "Biotecnología" investigará las aplicaciones de la biotecnología en áreas como la salud, la agricultura y la sostenibilidad ambiental, así como los dilemas éticos derivados del uso de datos genéticos, la edición de genes y la medicina personalizada. La clase de "Transhumanismo" analizará el movimiento filosófico y cultural que promueve la mejora de las capacidades humanas a través de la tecnología, evaluando los posibles beneficios, riesgos e impactos sociales de las tecnologías transhumanistas, como la ampliación humana, las interfaces cerebro-computadora y la búsqueda de la extensión radical de la vida.
+La clase de "Apocalipsis" examina escenarios donde el desarrollo o mal uso de la IA conduce a consecuencias catastróficas, desde riesgos existenciales hasta colapsos sistémicos. La clase de "Utopía" analiza visiones de sociedades ideales habilitadas por la tecnología y los desafíos éticos de perseguir estos horizontes. La clase de "Coevolución" investiga la interdependencia dinámica entre capacidades humanas y tecnológicas.
 
-Ambas clases enfatizan la importancia de desarrollar una comprensión crítica de los desafíos tecnológicos, éticos y sociales que plantean estos campos, y la necesidad de promover una innovación responsable en beneficio de todos.
-
----
-
-## Plan del Módulo 10
-
-> [!tip] Objetivo General de Aprendizaje
-> Comprender la convergencia de la biotecnología y el transhumanismo con la IA y la ciencia de datos, y examinar críticamente sus implicaciones éticas, sociales y tecnológicas.
+Las tres clases enfatizan la importancia de desarrollar una comprensión crítica de futuros posibles, balanceando la precaución ante riesgos con la aspiración hacia mejoras genuinas, mientras se preserva la autonomía y dignidad humana.
 
 ---
 
-### 10.1 & 10.2 — Biotecnología
+## Plan del módulo 10
 
-*Objetivos Específicos de Aprendizaje*
+### Estructura del módulo 10
 
-**10.1** Definir y entender el concepto de biotecnología en el contexto de la IA y la ciencia de datos, incluidas sus aplicaciones y desafíos éticos.
-
-**10.2** Analizar los dilemas éticos derivados del uso de datos genéticos, la edición de genes y la medicina personalizada.
-
-#### Tema
-
-> Biotecnología: aplicaciones y desafíos éticos en la era de la IA.
-
-#### Actividades de Aprendizaje
-
-- Definir la biotecnología como la aplicación de principios biológicos para crear o modificar productos y procesos, enfocándose en su intersección con la IA y la ciencia de datos.
-- Explorar aplicaciones como la medicina personalizada, terapia génica, descubrimiento de medicamentos, cultivos modificados genéticamente y biorremediación.
-- Analizar los problemas éticos relacionados con el uso de datos genéticos, incluyendo privacidad, seguridad y discriminación genética.
-- Examinar tecnologías de edición génica (como CRISPR), sus implicaciones para la salud humana y sus desafíos éticos.
-- Debatir los beneficios y limitaciones de la medicina personalizada y las implicaciones de su acceso desigual.
-- Mapear conexiones entre biotecnología y temas clave como ética, datos, regulación, sociedad, transhumanismo, utopía y dilemas.
-- Analizar estudios de caso como el desarrollo de CRISPR y el uso de IA en el descubrimiento de medicamentos.
-
-> [!important] Actividades prácticas
-> Actividades como debates, mini-proyectos y simulaciones de roles para explorar problemas éticos y regulatorios.
+**Objetivo general de aprendizaje:** Comprender los riesgos existenciales, las visiones utópicas y la dinámica de coevolución humano-máquina, examinando críticamente sus implicaciones éticas para el futuro de la humanidad.
 
 ---
 
-### 10.3 & 10.4 — Transhumanismo
+### Objetivo específico 10.1:
 
-*Objetivos Específicos de Aprendizaje*
+Definir y comprender el concepto de apocalipsis tecnológico en el contexto de la IA y la ciencia de datos, incluyendo riesgos existenciales y escenarios catastróficos.
 
-**10.3** Definir y entender el concepto de transhumanismo, incluidas sus bases filosóficas y aplicaciones tecnológicas.
+### Objetivo específico 10.2:
 
-**10.4** Evaluar críticamente los beneficios potenciales, riesgos e impactos sociales de las tecnologías transhumanistas.
+Analizar los dilemas éticos derivados del desarrollo de tecnologías con potencial destructivo y evaluar estrategias de mitigación de riesgos.
 
-#### Tema
+**Tema:** Apocalipsis: riesgos existenciales y ética de la precaución en la era de la IA.
 
-> Transhumanismo: mejorando las capacidades humanas y redefiniendo la humanidad.
+**Actividades de aprendizaje:**
 
-#### Actividades de Aprendizaje
-
-- Definir el transhumanismo como un movimiento que promueve la mejora de las capacidades humanas a través de la tecnología, como la eliminación del envejecimiento y la mejora física, intelectual y psicológica.
-- Explorar las raíces históricas y filosóficas del transhumanismo, y sus conexiones con el futurismo y el progreso tecnológico.
-- Examinar tecnologías como la ampliación humana (prótesis, exoesqueletos), interfaces cerebro-computadora, ingeniería genética y nanotecnología.
-- Analizar beneficios del transhumanismo, como longevidad, habilidades cognitivas mejoradas y rendimiento físico superior.
-- Examinar los riesgos, como equidad, acceso desigual, consecuencias no deseadas y exacerbación de desigualdades existentes.
-- Mapear conexiones entre transhumanismo y temas clave como ética, regulación, sociedad, utopía, datos, dilemas, sesgos y poder.
-- Analizar estudios de caso relacionados con tecnologías transhumanistas, incluyendo interfaces cerebro-computadora y modificación genética.
-
-> [!important] Actividades prácticas
-> Actividades como debates sobre el impacto del transhumanismo, proyectos para diseñar regulaciones, y simulaciones de roles para explorar las implicaciones éticas y sociales.
+- Definir el apocalipsis tecnológico como escenarios donde el desarrollo de IA conduce a consecuencias catastróficas irreversibles (Toby Ord, Eliezer Yudkowsky).
+- Explorar tipologías de riesgo: IA desalineada, singularidad hostil, colapso sistémico, apocalipsis de desinformación.
+- Analizar casos históricos como el Proyecto Manhattan y el incidente de alerta temprana soviético (1983) como precedentes de riesgo tecnológico.
+- Examinar el principio de precaución y la responsabilidad intergeneracional en el desarrollo tecnológico.
+- Mapear conexiones entre apocalipsis y temas clave: ética, regulación, poder, biotecnología, transhumanismo.
+- Evaluar propuestas de gobernanza global para mitigar riesgos existenciales de la IA.
+- Actividades: debates sobre límites éticos de la investigación en IA, simulaciones de comités de crisis, análisis de escenarios apocalípticos.
 
 ---
 
-*© 2025 Data Science & AI Ethics — Tecnológico de Monterrey*
+### Objetivo específico 10.3:
+
+Definir y comprender el concepto de utopía tecnológica, incluyendo sus bases filosóficas y manifestaciones contemporáneas en IA y ciencia de datos.
+
+### Objetivo específico 10.4:
+
+Evaluar críticamente los beneficios potenciales, riesgos y contradicciones de las visiones utópicas impulsadas por la tecnología.
+
+**Tema:** Utopía: visiones de futuros ideales y ética del diseño tecnológico.
+
+**Actividades de aprendizaje:**
+
+- Definir la utopía tecnológica como visiones donde la IA y los datos propician equidad, transparencia, eficiencia y bienestar universal.
+- Explorar la evolución histórica: desde Tomás Moro hasta las utopías digitales del siglo XXI (Ray Kurzweil, singularidad tecnológica).
+- Analizar proyectos reales: Smart Villages, ciudades inteligentes, modelos de "data trusts" para gobernanza participativa.
+- Examinar críticas a la tecnoutopía: riesgo de homogeneización, vigilancia, determinismo tecnológico (Evgeny Morozov, Wendy Chun).
+- Mapear conexiones entre utopía y temas clave: sesgos, dilemas, regulación, poder, sociedad.
+- Diseñar marcos éticos para tecnologías con aspiraciones utópicas.
+- Actividades: juegos de rol sobre gobernanza ciudadana de IA, debates sobre IA como bien público, diseño de propuestas utópicas.
+
+---
+
+### Objetivo específico 10.5:
+
+Definir y comprender el concepto de coevolución humano-máquina como proceso recíproco de influencia mutua entre humanos y tecnologías.
+
+### Objetivo específico 10.6:
+
+Evaluar críticamente las implicaciones éticas de la integración profunda entre capacidades humanas y sistemas computacionales.
+
+**Tema:** Coevolución: interdependencia humano-máquina y futuros híbridos.
+
+**Actividades de aprendizaje:**
+
+- Definir la coevolución como el proceso donde humanos y tecnologías se transforman mutuamente (Marshall McLuhan, N. Katherine Hayles, Luciano Floridi).
+- Explorar tecnologías habilitadoras: cómputo cuántico, cloud computing, interfaces cerebro-computadora, nanoprocesadores.
+- Analizar casos reales: asistentes virtuales, algoritmos de recomendación, automatización industrial, wrappers en medicina.
+- Examinar desafíos éticos: pérdida de autonomía, deshumanización, concentración de poder, brecha digital, demanda energética.
+- Mapear conexiones entre coevolución y temas clave: ética, biotecnología, transhumanismo, conciencia, sociedad.
+- Desarrollar visiones de coevolución ética que preserve la dignidad humana.
+- Actividades: simulación de comités de ética evaluando BCIs, debates sobre derechos algorítmicos, mini-proyectos sobre automatización ética.
